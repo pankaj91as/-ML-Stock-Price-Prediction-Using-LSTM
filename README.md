@@ -1,1 +1,1 @@
-# -ML-Stock-Price-Prediction-Using-LSTM
+# [ML] Stock Price Prediction Using LSTM
